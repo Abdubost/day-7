@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
+.container{
+    margin: 0 auto;
+    padding: 0 20px;
+    max-width: 1283
+}
+
+.site-header-link{
+color: 1F1534;
+}
+.site-header{
+    margin: 0 auto;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+/* hero */
+.hero{
+    padding-bottom: 100px;
+}
+
+.hero-title{
+    width: 426px;
+    font-size: 48px;
+    margin-bottom: 25px;
+    border-color: black;
+}
+.hero-text{
+    margin-bottom: 45px;
+    width: 445px;
+    font-size: 21px;
+    color: #7D7987;
+}
